@@ -29,7 +29,8 @@ name: Deploy to Amazon EC2
 on:
   push:
     branches: [ "master" ]
-
+  create:
+    branches: [ "master" ]
 jobs:
   deploy:
     name: Deploy
