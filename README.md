@@ -9,7 +9,7 @@ Bhavya Agrawal
 Chirage Johi
 Divyansh Parmar
 This application is also been hosted on EC2 and Amazon S3 Bucket 
-The Elastic IP Provided soon......
+The Elastic IP Provided soon.......
 
 Have a Nice Day .. :-) 📧 😃😃😃😃
 
